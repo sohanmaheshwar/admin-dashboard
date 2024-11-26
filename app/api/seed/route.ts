@@ -1,3 +1,4 @@
+"use server"
 import { db, products } from 'lib/db';
 
 export const dynamic = 'force-dynamic';
